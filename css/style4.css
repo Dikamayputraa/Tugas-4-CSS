@@ -1,0 +1,15 @@
+.judul{
+	color: black !important;
+}
+.register input{
+	color: grey;
+	font-size: large;
+}
+
+button{
+	color: orange;
+	font-size: xx-large;
+	font-weight: bold;
+	width: 150px;
+	height: 50px;
+}
